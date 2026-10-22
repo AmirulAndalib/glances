@@ -5,7 +5,7 @@
 		"favico.js": "^0.3.10",
 		"hotkeys-js": "^4.0.7",
 		"lodash": "^4.18.1",
-		"sanitize-html": "^2.17.7",
+		"sanitize-html": "^2.18.1",
 		"vue": "^3.5.42"
 	},
 	"devDependencies": {
@@ -29,7 +29,7 @@
 		"vue-loader": "^17.4.2",
 		"webpack": "^5.110.3",
 		"webpack-cli": "^7.2.3",
-		"webpack-dev-server": "^5.2.6"
+		"webpack-dev-server": "^6.1.0"
 	},
 	"overrides": {
 		"eslint": {
